@@ -1,5 +1,5 @@
-# QR Screenshot Reader
-QR code reader from screenshot
+# QR Screenshot Scanner
+QR code scan from screenshot
 
 <p align="left">
   <strong>-</strong>

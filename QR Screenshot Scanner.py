@@ -13,6 +13,9 @@ tmp_txt = ""
 def capt_pant():
     global tmp_txt
     
+    # Limpiar códigos anteriores
+    tmp_txt = ""
+    
     # Definir límites de la captura
     x1 = min(x_ini, x_fin)
     y1 = min(y_ini, y_fin)
